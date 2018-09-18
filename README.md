@@ -1,7 +1,7 @@
 # bbc_microbit
 BT mesh with bbc_microbit
 
-Mac OS instructions
+Initialize toolchains and environment for Mac OS
 
 //Download gnu
 https://developer.arm.com/open-source/gnu-toolchain/gnu-rm/downloads
